@@ -15,7 +15,7 @@ footer_text: >
 keywords: blog, simple, academic-website, portfolio-website, jekyll, jekyll-theme # add your own keywords or leave empty
 
 lang: id # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: /assets/img/icon.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: icon.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ahmaadn.github.io # the base hostname & protocol for your site
 baseurl: /log  # the subpath of your site, e.g. /blog/
