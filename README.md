@@ -1,2 +1,2 @@
 ## Blog Web
-Daily basis personal tech blog url: https://ahmaadn.github.io
+Daily basis personal tech blog url: https://ahmaadn.github.io/log/
