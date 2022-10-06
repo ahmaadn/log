@@ -15,8 +15,8 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: blog, simple, academic-website, portfolio-website, jekyll, jekyll-theme # add your own keywords or leave empty
 
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+lang: id # the language of your site (for example: en, fr, cn, ru, etc.)
+icon: /assets/img/icon.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ahmaadn.github.io # the base hostname & protocol for your site
 baseurl: /log  # the subpath of your site, e.g. /blog/
@@ -32,8 +32,8 @@ highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-them
 highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
-repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: buefy        # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: transparent           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
 # -----------------------------------------------------------------------------
 # RSS Feed
@@ -94,7 +94,7 @@ facebook_id: a.ahmad415 # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  See You
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

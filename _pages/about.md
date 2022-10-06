@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Jangan terlalu bergantung pada siapa pun didunia ini, karena bayanganmu saja meninggalkanmu disaat gelap - Ibnu Taimiyah
+subtitle: >
+  "Jangan terlalu bergantung pada siapa pun di dunia ini, karena bayanganmu saja meninggalkanmu disaat gelap" - Ibnu Taimiyah
 
 profile:
   align: right
