@@ -51,9 +51,12 @@ Notasi algoritma adalah suatu notasi yang digunakan untuk menuliskan langkah-lan
 Notasi algoritma tidak dituliskan dalam bahasa pemrograman tetapi notasi ini dapat diterjemahkan kedalam berbagai bahasa pemrograman. penotasian ini harus dilakukan sedemikain hingga mudah dibaca dam dimengerti.
 
 Secara umum terdapat tiga cara dalam menuliskan algoritma yaitu sebagai berikut:
-1. [Desktiptif](#desktiptif)
-2. [flowchart](#flowchart)
-3. [PseudoCode](#pseudocode)
+- [Pengertian](#pengertian)
+- [Fungsi](#fungsi)
+- [Notasi Algotitma](#notasi-algotitma)
+  - [Desktiptif](#desktiptif)
+  - [Flowchart](#flowchart)
+  - [PseudoCode](#pseudocode)
 
 ### Desktiptif
 Uraian deskriptif adalah suatu penjabaran masalah dengan uraian bahasa sehari-hari.
