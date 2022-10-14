@@ -112,11 +112,17 @@
 
         {{ content }}
       </d-article>
-
-      <!-- <d-appendix>
+      
+      {% if page.references or page.footnotes %}
+      <d-appendix>
+        {% if page.footnotes %}
         <d-footnote-list></d-footnote-list>
+        {% endif %}
+        {% if page.references %}
         <d-citation-list></d-citation-list>
-      </d-appendix> -->
+        {% endif %}
+      </d-appendix>
+      {% endif %}
 
     </div>
 
