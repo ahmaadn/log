@@ -5,7 +5,7 @@ date: 2022-10-14 00:00:00
 description: 
 comments: false
 categories: 
-tags: Agama, Spiritual, pendidikan
+tags: Agama, Spiritual, Pendidikan
 
 bibliography: 2022-10-14-Urgensi-nilai-nilai-Spiritual-islam-dalam-aktivitas-pendidikan-di-Indonesia.bib
 references: true
