@@ -96,6 +96,12 @@ blockquote {
   margin-left: 1rem;
   width: 100%;
 
+  .border-pic {
+    border-style: solid;
+    border-width: 8px;
+    border-color: var(--global-bg-color);
+  }
+
   .address {
     margin-bottom: 5px;
     margin-top: 5px;

@@ -8,7 +8,6 @@ subtitle: >
 profile:
   align: right
   image: profile.jpg
-  image_circular: true # crops the image to make it circular
   address: >
     <p>Garut, Jawa Barat 44153</p>
 
