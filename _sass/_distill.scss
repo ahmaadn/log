@@ -17,6 +17,10 @@ d-byline a, d-article d-byline a {
   }
 }
 
+d-title h1 {
+  padding-top: 2rem;
+}
+
 d-article {
   border-top-color: var(--global-divider-color) !important;
   a, p, h1, h2, h3, h4, h5, h6, li, table {
@@ -108,6 +112,10 @@ d-appendix {
 }
 
 @media (max-width: 1024px) {
+  d-title h1 {
+    padding-top: 3rem;
+  }
+  
   d-article {
     d-contents {
       display: block;

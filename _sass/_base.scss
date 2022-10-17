@@ -327,25 +327,35 @@ footer.sticky-bottom {
 }
 
 // Blog
-
 .header-bar {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
-  padding-top: 1rem;
+  padding-top: 2rem;
   padding-bottom: 3rem;
   h1 {
     color: var(--global-theme-color);
-    font-size: 3.75rem;
-  }
-  h2 {
-    font-size: 1.75rem;
+    font-size: 5rem;
   }
 }
+
+// .header-bar {
+//   border-bottom: 1px solid var(--global-divider-color);
+//   text-align: center;
+//   padding-top: 1rem;
+//   padding-bottom: 3rem;
+//   h1 {
+//     color: var(--global-theme-color);
+//     font-size: 3.75rem;
+//   }
+//   h2 {
+//     font-size: 1.75rem;
+//   }
+// }
 
 .tag-list {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
-  // padding-top: 10px;
+  padding-top: 10px;
 
   ul {
     justify-content: center;
