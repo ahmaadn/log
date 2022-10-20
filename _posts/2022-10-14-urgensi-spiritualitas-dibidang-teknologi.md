@@ -5,7 +5,7 @@ date: 2022-10-14 00:00:00
 description: 
 comments: false
 categories: 
-tags: Agama, Spiritual, Teknologi
+tags: agama spiritual teknologi
 
 bibliography: 2022-10-14-spiritual.bib
 references: true

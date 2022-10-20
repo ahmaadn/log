@@ -5,7 +5,7 @@ date: 2022-10-07 00:00:00
 description: Mengenal lebih jauh tentang Algorima dan Pemograman
 comments: false
 categories: Pemrograman
-tags: Algoritma, Pemrograman
+tags: algoritma pemrograman
 
 toc:
   - name: Pengertian
