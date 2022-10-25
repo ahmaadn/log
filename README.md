@@ -1,2 +1,4 @@
+Github ini di fork (kemudian dipisahkan) dari [al-folio](https://github.com/alshedivat/al-folio), yaitu © 2022 Maruan Al-Shedivat dan dirilis di bawah Lisensi MIT. Lihat LISENSI.md
+
 ## Blog Web
-Daily basis personal tech blog url: https://ahmaadn.github.io/log/
+Kunjungi personal blog website url: https://ahmaadn.github.io/log/
